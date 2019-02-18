@@ -1,5 +1,5 @@
 # Twilio-Chatbot RPG Game
-How to Build Project:
+How to Build & Run the Project:
 1. Download the latest Visual Studio Code at: https://code.visualstudio.com/download
 2. Install Node.js at: https://nodejs.org/en/download/ 
 3. Start Visual Studio Code and make sure you do not have other projects/files open.
