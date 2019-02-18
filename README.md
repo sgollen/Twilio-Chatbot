@@ -15,4 +15,6 @@ How to Build & Run the Project:
 `http://localhost:3000/` </br>
 8. Type Hi and Enjoy the Game!!!
 
-Note: If you see have errors make a fresh copy and make sure you follow the above steps correctly
+Note: Make sure you follow the above steps correctly. If you have any errors make a fresh copy and try again.
+      You can also play the game online at </br>
+      `https://rpggamechatbot.herokuapp.com/`
